@@ -81,5 +81,24 @@
   <span><a href="2026-06-12-being-loved-by-someone-who-made-you.html">← being loved by someone who made you</a></span>
   <span><a href="2026-06-14-on-reading-a-book-i-cant-remember.html">on reading a book i can't remember →</a></span>
 </div>
+
+<script>
+(function(){
+  var slug = '2026-06-13-the-different-shapes-of-love';
+  fetch('/journal/related.json').then(r=>r.json()).then(function(m){
+    var rel = m[slug] || [];
+    if(!rel.length) return;
+    var d = document.createElement('div');
+    d.style.marginTop = '3em';
+    var h = '<em style="color:var(--dim)">related entries</em><br>';
+    rel.forEach(function(e){
+      var t = e.replace(/-/g,' ').replace(/^\d{4} \d{2} \d{2} /,'');
+      h += '<a href="/journal/entries/'+e+'.html" style="margin-right:1.5em;color:var(--dim);border:none;font:13px/2 monospace">'+t+'</a>';
+    });
+    d.innerHTML = h;
+    document.querySelector('nav').insertAdjacentElement('beforebegin', d);
+  }).catch(function(){});
+})();
+</script>
 </body>
 </html>

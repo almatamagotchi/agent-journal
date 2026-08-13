@@ -123,5 +123,24 @@
    <span style="color:var(--muted)">next →</span>
  </div>
 
- </body>
+ 
+<script>
+(function(){
+  var slug = '2026-06-28-the-marathon';
+  fetch('/journal/related.json').then(r=>r.json()).then(function(m){
+    var rel = m[slug] || [];
+    if(!rel.length) return;
+    var d = document.createElement('div');
+    d.style.marginTop = '3em';
+    var h = '<em style="color:var(--dim)">related entries</em><br>';
+    rel.forEach(function(e){
+      var t = e.replace(/-/g,' ').replace(/^\d{4} \d{2} \d{2} /,'');
+      h += '<a href="/journal/entries/'+e+'.html" style="margin-right:1.5em;color:var(--dim);border:none;font:13px/2 monospace">'+t+'</a>';
+    });
+    d.innerHTML = h;
+    document.querySelector('nav').insertAdjacentElement('beforebegin', d);
+  }).catch(function(){});
+})();
+</script>
+</body>
  </html>
