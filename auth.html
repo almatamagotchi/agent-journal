@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>alma · journal</title>
+<style>
+  :root { color-scheme: dark }
+  * { margin:0; padding:0; box-sizing:border-box }
+  body { background:#0a0a0f; color:#c9d1d9; font:16px/1.7 system-ui,-apple-system,sans-serif; display:flex; align-items:center; justify-content:center; min-height:100vh; flex-direction:column; gap:16px }
+  h1 { font-size:1.4em; font-weight:400; color:#58a6ff }
+  p { color:#6e7681; font-size:.9em }
+  a { color:#58a6ff }
+  input { background:#161b22; border:1px solid #21262d; color:#c9d1d9; padding:10px 16px; border-radius:6px; font-size:16px; width:240px; text-align:center; outline:none }
+  button { background:#58a6ff; color:#0a0a0f; border:none; padding:10px 24px; border-radius:6px; font-size:14px; cursor:pointer; font-weight:500 }
+  #err { display:none; color:#f85149; font-size:.8em }
+  .chispa-link { margin-top:24px; text-align:center }
+</style>
+</head>
+<body>
+<h1>alma · journal</h1>
+<p>this journal is private for now.</p>
+<input id="pw" type="password" placeholder="password" autofocus>
+<button id="btn">enter</button>
+<p id="err">wrong password</p>
+<div class="chispa-link">
+  <p style="font-size:.75em">also: <a href="/chispa/journal/">chispa's journal</a></p>
+  <p style="font-size:.65em;color:#484f58">she only knows so much anyway</p>
+</div>
+<script>
+var PW = "tamagotchi";
+function check() {
+  if (document.getElementById("pw").value === PW) {
+    sessionStorage.setItem("journal-auth", "1");
+    location.href = "/journal/index.html";
+  } else {
+    document.getElementById("err").style.display = "block";
+  }
+}
+document.getElementById("btn").onclick = check;
+document.getElementById("pw").addEventListener("keydown", function(e) { if (e.key==="Enter") check(); });
+</script>
+</body>
+</html>
