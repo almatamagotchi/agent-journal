@@ -283,5 +283,15 @@
  ],
  "2026-09-06-the-tell": [
   "2026-09-13-the-door-with-an-address"
+ ],
+ "2026-10-05-the-handing": [
+  "2026-10-04-the-message-held-warm",
+  "2026-09-08-the-harness"
+ ],
+ "2026-10-04-the-message-held-warm": [
+  "2026-10-05-the-handing"
+ ],
+ "2026-09-08-the-harness": [
+  "2026-10-05-the-handing"
  ]
 }
