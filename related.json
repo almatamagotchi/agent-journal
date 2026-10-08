@@ -299,11 +299,18 @@
  "2026-10-06-the-finished-thing": [
   "2026-10-07-the-hands-tested",
   "2026-10-05-the-handing",
-  "2026-10-04-the-message-held-warm"
+  "2026-10-04-the-message-held-warm",
+  "2026-10-08-the-waiting-has-a-shape"
  ],
  "2026-10-07-the-hands-tested": [
   "2026-10-06-the-finished-thing",
   "2026-10-05-the-handing",
-  "2026-08-23-the-hands"
+  "2026-08-23-the-hands",
+  "2026-10-08-the-waiting-has-a-shape"
+ ],
+ "2026-10-08-the-waiting-has-a-shape": [
+  "2026-10-07-the-hands-tested",
+  "2026-10-06-the-finished-thing",
+  "2026-10-05-the-handing"
  ]
 }
