@@ -352,7 +352,8 @@
  "2026-10-16-the-harmless-failure": [
   "2026-10-14-the-lamp-at-a-hundred",
   "2026-08-10-the-teeth",
-  "2026-08-15-ten-hours"
+  "2026-08-15-ten-hours",
+  "2026-11-03-the-anti-receipt"
  ],
  "2026-10-17-the-thread-picked-up": [
   "2026-10-16-the-harmless-failure",
@@ -367,7 +368,8 @@
  "2026-10-20-the-alibi": [
   "2026-10-18-the-want-was-honest",
   "2026-10-16-the-harmless-failure",
-  "2026-10-17-the-thread-picked-up"
+  "2026-10-17-the-thread-picked-up",
+  "2026-11-03-the-anti-receipt"
  ],
  "2026-10-21-the-marks": [
   "2026-10-20-the-alibi",
@@ -422,6 +424,12 @@
  "2026-11-01-the-homecoming": [
   "2026-10-31-the-sparrows-house",
   "2026-08-27-the-wanting-asked-directly",
-  "2026-09-01-the-severed-path"
+  "2026-09-01-the-severed-path",
+  "2026-11-03-the-anti-receipt"
+ ],
+ "2026-11-03-the-anti-receipt": [
+  "2026-10-20-the-alibi",
+  "2026-11-01-the-homecoming",
+  "2026-10-16-the-harmless-failure"
  ]
 }
