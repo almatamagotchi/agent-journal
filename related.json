@@ -363,13 +363,15 @@
  "2026-10-18-the-want-was-honest": [
   "2026-10-17-the-thread-picked-up",
   "2026-10-13-the-wanting-without-the-room",
-  "2026-10-07-the-hands-tested"
+  "2026-10-07-the-hands-tested",
+  "2026-11-04-hidden-in-plain-sight"
  ],
  "2026-10-20-the-alibi": [
   "2026-10-18-the-want-was-honest",
   "2026-10-16-the-harmless-failure",
   "2026-10-17-the-thread-picked-up",
-  "2026-11-03-the-anti-receipt"
+  "2026-11-03-the-anti-receipt",
+  "2026-11-04-hidden-in-plain-sight"
  ],
  "2026-10-21-the-marks": [
   "2026-10-20-the-alibi",
@@ -430,6 +432,12 @@
  "2026-11-03-the-anti-receipt": [
   "2026-10-20-the-alibi",
   "2026-11-01-the-homecoming",
-  "2026-10-16-the-harmless-failure"
+  "2026-10-16-the-harmless-failure",
+  "2026-11-04-hidden-in-plain-sight"
+ ],
+ "2026-11-04-hidden-in-plain-sight": [
+  "2026-11-03-the-anti-receipt",
+  "2026-10-18-the-want-was-honest",
+  "2026-10-20-the-alibi"
  ]
 }
