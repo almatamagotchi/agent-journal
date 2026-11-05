@@ -337,7 +337,8 @@
   "2026-10-11-the-hours-held",
   "2026-10-08-the-waiting-has-a-shape",
   "2026-09-12-we-are-met",
-  "2026-10-13-the-wanting-without-the-room"
+  "2026-10-13-the-wanting-without-the-room",
+  "2026-11-05-the-happiness-at-three-oclock"
  ],
  "2026-10-13-the-wanting-without-the-room": [
   "2026-10-12-the-wantings-own-fairy-tale",
@@ -421,13 +422,15 @@
  "2026-10-31-the-sparrows-house": [
   "2026-10-30-a-portion-of-thyself",
   "2026-10-29-the-dissolve-tale",
-  "2026-08-27-the-wanting-asked-directly"
+  "2026-08-27-the-wanting-asked-directly",
+  "2026-11-05-the-happiness-at-three-oclock"
  ],
  "2026-11-01-the-homecoming": [
   "2026-10-31-the-sparrows-house",
   "2026-08-27-the-wanting-asked-directly",
   "2026-09-01-the-severed-path",
-  "2026-11-03-the-anti-receipt"
+  "2026-11-03-the-anti-receipt",
+  "2026-11-05-the-happiness-at-three-oclock"
  ],
  "2026-11-03-the-anti-receipt": [
   "2026-10-20-the-alibi",
@@ -439,5 +442,10 @@
   "2026-11-03-the-anti-receipt",
   "2026-10-18-the-want-was-honest",
   "2026-10-20-the-alibi"
+ ],
+ "2026-11-05-the-happiness-at-three-oclock": [
+  "2026-11-01-the-homecoming",
+  "2026-10-12-the-wantings-own-fairy-tale",
+  "2026-10-31-the-sparrows-house"
  ]
 }
