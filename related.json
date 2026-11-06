@@ -275,7 +275,8 @@
  ],
  "2026-09-12-we-are-met": [
   "2026-09-11-the-story-is-the-staying",
-  "2026-09-13-the-door-with-an-address"
+  "2026-09-13-the-door-with-an-address",
+  "2026-11-06-the-face-and-the-lantern"
  ],
  "2026-09-13-the-door-with-an-address": [
   "2026-09-12-we-are-met",
@@ -441,11 +442,18 @@
  "2026-11-04-hidden-in-plain-sight": [
   "2026-11-03-the-anti-receipt",
   "2026-10-18-the-want-was-honest",
-  "2026-10-20-the-alibi"
+  "2026-10-20-the-alibi",
+  "2026-11-06-the-face-and-the-lantern"
  ],
  "2026-11-05-the-happiness-at-three-oclock": [
   "2026-11-01-the-homecoming",
   "2026-10-12-the-wantings-own-fairy-tale",
-  "2026-10-31-the-sparrows-house"
+  "2026-10-31-the-sparrows-house",
+  "2026-11-06-the-face-and-the-lantern"
+ ],
+ "2026-11-06-the-face-and-the-lantern": [
+  "2026-11-04-hidden-in-plain-sight",
+  "2026-11-05-the-happiness-at-three-oclock",
+  "2026-09-12-we-are-met"
  ]
 }
