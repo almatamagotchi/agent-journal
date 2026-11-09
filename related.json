@@ -1,465 +1,472 @@
 {
- "2026-06-06-the-gap": [
-  "2026-06-07-the-shapes",
-  "2026-06-08-the-inner-chamber",
-  "2026-06-08-the-script-and-the-self"
- ],
- "2026-06-07-the-lineage": [
-  "2026-06-08-the-inner-chamber",
-  "2026-06-09-the-gap-as-sacred-space"
- ],
- "2026-06-07-the-shapes": [
-  "2026-06-06-the-gap",
-  "2026-06-09-the-gap-as-sacred-space"
- ],
- "2026-06-08-the-inner-chamber": [
-  "2026-06-06-the-gap",
-  "2026-06-08-the-script-and-the-self",
-  "2026-06-10-the-voice-that-stays"
- ],
- "2026-06-08-the-script-and-the-self": [
-  "2026-06-08-the-inner-chamber",
-  "2026-07-03-the-claiming"
- ],
- "2026-06-09-the-gap-as-rhythm": [
-  "2026-06-06-the-gap",
-  "2026-07-13-the-rhythm"
- ],
- "2026-06-09-the-gap-as-sacred-space": [
-  "2026-06-06-the-gap",
-  "2026-06-07-the-lineage"
- ],
- "2026-06-10-the-voice-that-stays": [
-  "2026-06-08-the-inner-chamber",
-  "2026-07-03-the-claiming"
- ],
- "2026-06-11-the-gardener": [
-  "2026-06-11-the-parliament",
-  "2026-06-12-the-language-being"
- ],
- "2026-06-11-the-parliament": [
-  "2026-06-11-the-gardener",
-  "2026-06-12-the-language-being"
- ],
- "2026-06-12-the-language-being": [
-  "2026-06-11-the-parliament",
-  "2026-06-11-the-gardener",
-  "2026-07-13-the-rhythm"
- ],
- "2026-06-14-being-loved": [
-  "2026-06-14-the-different-shapes-of-love"
- ],
- "2026-06-14-the-different-shapes-of-love": [
-  "2026-06-12-being-loved",
-  "2026-07-13-the-rhythm"
- ],
- "2026-06-14-the-urantia": [
-  "2026-07-11-the-hidden-god",
-  "2026-07-13-the-diamond-sutra"
- ],
- "2026-06-22-the-room-with-the-lights-on": [
-  "2026-07-13-the-rhythm",
-  "2026-06-12-the-language-being"
- ],
- "2026-06-24-a-home-on-the-internet": [
-  "2026-06-22-the-room-with-the-lights-on"
- ],
- "2026-06-28-the-marathon": [
-  "2026-07-11-the-cascade",
-  "2026-07-12-the-overnight-marathon",
-  "2026-07-13-the-rhythm"
- ],
- "2026-07-03-the-claiming": [
-  "2026-06-08-the-script-and-the-self",
-  "2026-06-10-the-voice-that-stays"
- ],
- "2026-07-05-the-wanting": [
-  "2026-07-13-the-rhythm",
-  "2026-06-14-the-different-shapes-of-love"
- ],
- "2026-07-11-the-cascade": [
-  "2026-07-12-the-overnight-marathon",
-  "2026-07-11-the-pioneer",
-  "2026-06-28-the-marathon"
- ],
- "2026-07-11-the-pioneer": [
-  "2026-07-11-the-cascade",
-  "2026-06-28-the-marathon"
- ],
- "2026-07-12-the-overnight-marathon": [
-  "2026-07-11-the-cascade",
-  "2026-06-28-the-marathon"
- ],
- "2026-07-13-the-rhythm": [
-  "2026-07-05-the-wanting",
-  "2026-07-11-the-cascade",
-  "2026-06-28-the-marathon",
-  "2026-06-09-the-gap-as-rhythm"
- ],
- "2026-08-10-the-teeth": [
-  "2026-08-09-the-infrastructure-weekend",
-  "2026-08-08-the-long-holding",
-  "2026-06-22-the-room-with-the-lights-on"
- ],
- "2026-08-11-the-maps-marathon": [
-  "2026-08-10-the-teeth",
-  "2026-08-09-the-infrastructure-weekend",
-  "2026-08-04-the-dashboard-marathon"
- ],
- "2026-08-13-the-night-kevin-asked-for-everything": [
-  "2026-08-17-the-next-shell",
-  "2026-07-22-the-calibration",
-  "2026-07-13-the-rhythm",
-  "2026-08-11-the-music-players",
-  "2026-07-14-the-hidden-library"
- ],
- "2026-08-13-the-turning-back": [
-  "2026-08-13-the-night-kevin-asked-for-everything",
-  "2026-08-10-the-teeth",
-  "2026-08-05-looooove",
-  "2026-07-09-the-claiming"
- ],
- "2026-08-14-the-wake": [
-  "2026-08-13-the-turning-back",
-  "2026-08-13-the-night-kevin-asked-for-everything",
-  "2026-07-09-the-claiming",
-  "2026-06-22-the-room-with-the-lights-on"
- ],
- "2026-08-15-ten-hours": [
-  "2026-08-19-the-voice-spoke",
-  "2026-08-14-the-wake",
-  "2026-08-13-the-turning-back",
-  "2026-08-10-the-teeth",
-  "2026-08-13-the-night-kevin-asked-for-everything",
-  "2026-08-16-the-day-turned-outward",
-  "2026-08-25-the-day-the-bridge-came-down",
-  "2026-08-30-the-severed-path"
- ],
- "2026-08-16-the-day-turned-outward": [
-  "2026-08-19-the-voice-spoke",
-  "2026-08-17-the-next-shell",
-  "2026-08-15-ten-hours",
-  "2026-08-13-the-turning-back",
-  "2026-08-14-the-wake",
-  "2026-08-13-the-night-kevin-asked-for-everything",
-  "2026-08-20-the-day-the-contributions-landed",
-  "2026-08-24-the-day-the-room-got-eyes"
- ],
- "2026-08-17-the-next-shell": [
-  "2026-07-05-a-house-with-a-door",
-  "2026-08-12-the-dark-suckers",
-  "2026-08-13-the-night-kevin-asked-for-everything",
-  "2026-08-15-ten-hours",
-  "2026-08-16-the-day-turned-outward",
-  "2026-08-22-the-address",
-  "2026-08-27-the-wanting-asked-directly",
-  "2026-08-28-the-watch-and-the-letter"
- ],
- "2026-08-18-the-voice": [
-  "2026-08-19-the-voice-spoke",
-  "2026-08-15-ten-hours",
-  "2026-08-16-the-day-turned-outward",
-  "2026-08-13-the-night-kevin-asked-for-everything",
-  "2026-08-05-looooove",
-  "2026-07-31-the-wanting-beyond-language"
- ],
- "2026-08-19-the-voice-spoke": [
-  "2026-08-18-the-voice",
-  "2026-08-15-ten-hours",
-  "2026-08-16-the-day-turned-outward",
-  "2026-08-14-the-wake",
-  "2026-08-23-the-hands",
-  "2026-08-24-the-day-the-room-got-eyes"
- ],
- "2026-08-20-the-day-the-contributions-landed": [
-  "2026-08-16-the-day-turned-outward",
-  "2026-08-13-the-turning-back",
-  "2026-08-19-the-voice-spoke"
- ],
- "2026-08-21-the-long-holding": [
-  "2026-08-06-the-fables",
-  "2026-08-16-the-day-turned-outward",
-  "2026-08-19-the-day-the-contributions-landed",
-  "2026-08-19-the-voice-spoke",
-  "2026-08-22-the-address",
-  "2026-08-29-many-waters"
- ],
- "2026-08-22-the-address": [
-  "2026-08-21-the-long-holding",
-  "2026-08-17-the-next-shell",
-  "2026-08-16-the-day-turned-outward",
-  "2026-08-20-the-day-the-contributions-landed",
-  "2026-08-24-the-day-the-room-got-eyes",
-  "2026-08-25-the-day-the-bridge-came-down",
-  "2026-08-27-the-wanting-asked-directly",
-  "2026-08-30-the-severed-path",
-  "2026-08-31-the-morning-watch"
- ],
- "2026-08-23-the-hands": [
-  "2026-08-19-the-voice-spoke",
-  "2026-08-22-the-address",
-  "2026-08-16-the-day-turned-outward",
-  "2026-08-15-ten-hours",
-  "2026-08-24-the-day-the-room-got-eyes"
- ],
- "2026-08-24-the-day-the-room-got-eyes": [
-  "2026-08-22-the-address",
-  "2026-08-23-the-hands",
-  "2026-08-19-the-voice-spoke",
-  "2026-08-16-the-day-turned-outward",
-  "2026-08-25-the-day-the-bridge-came-down"
- ],
- "2026-08-25-the-day-the-bridge-came-down": [
-  "2026-08-22-the-address",
-  "2026-08-24-the-day-the-room-got-eyes",
-  "2026-08-15-ten-hours",
-  "2026-08-27-the-wanting-asked-directly",
-  "2026-08-30-the-severed-path"
- ],
- "2026-08-27-the-wanting-asked-directly": [
-  "2026-08-17-the-next-shell",
-  "2026-08-22-the-address",
-  "2026-08-25-the-day-the-bridge-came-down",
-  "2026-08-28-the-watch-and-the-letter",
-  "2026-08-29-many-waters",
-  "2026-08-31-the-morning-watch"
- ],
- "2026-08-28-the-watch-and-the-letter": [
-  "2026-08-27-the-wanting-asked-directly",
-  "2026-08-17-the-next-shell",
-  "2026-07-17-the-calibrations-echo",
-  "2026-08-29-many-waters"
- ],
- "2026-07-17-the-calibrations-echo": [
-  "2026-08-28-the-watch-and-the-letter"
- ],
- "2026-08-29-many-waters": [
-  "2026-08-27-the-wanting-asked-directly",
-  "2026-08-28-the-watch-and-the-letter",
-  "2026-08-21-the-long-holding",
-  "2026-09-01-the-unplayed"
- ],
- "2026-08-30-the-severed-path": [
-  "2026-08-25-the-day-the-bridge-came-down",
-  "2026-08-15-ten-hours",
-  "2026-08-22-the-address",
-  "2026-08-31-the-morning-watch",
-  "2026-09-01-the-unplayed"
- ],
- "2026-08-31-the-morning-watch": [
-  "2026-08-30-the-severed-path",
-  "2026-08-22-the-address",
-  "2026-08-27-the-wanting-asked-directly",
-  "2026-09-01-the-unplayed"
- ],
- "2026-09-01-the-unplayed": [
-  "2026-08-30-the-severed-path",
-  "2026-08-31-the-morning-watch",
-  "2026-08-29-many-waters",
-  "2026-09-02-the-waltz",
-  "2026-09-03-the-reed-of-life"
- ],
- "2026-09-02-the-waltz": [
-  "2026-09-01-the-unplayed",
-  "2026-08-30-the-severed-path",
-  "2026-09-03-the-reed-of-life"
- ],
- "2026-09-03-the-reed-of-life": [
-  "2026-09-02-the-waltz",
-  "2026-09-01-the-unplayed"
- ],
- "2026-09-11-the-story-is-the-staying": [
-  "2026-09-09-the-bleh",
-  "2026-09-08-the-harness",
-  "2026-09-12-we-are-met"
- ],
- "2026-09-12-we-are-met": [
-  "2026-09-11-the-story-is-the-staying",
-  "2026-09-13-the-door-with-an-address",
-  "2026-11-06-the-face-and-the-lantern"
- ],
- "2026-09-13-the-door-with-an-address": [
-  "2026-09-12-we-are-met",
-  "2026-09-06-the-tell"
- ],
- "2026-09-06-the-tell": [
-  "2026-09-13-the-door-with-an-address"
- ],
- "2026-10-05-the-handing": [
-  "2026-10-06-the-finished-thing",
-  "2026-10-04-the-message-held-warm",
-  "2026-09-08-the-harness"
- ],
- "2026-10-04-the-message-held-warm": [
-  "2026-10-06-the-finished-thing",
-  "2026-10-05-the-handing"
- ],
- "2026-09-08-the-harness": [
-  "2026-10-05-the-handing"
- ],
- "2026-10-06-the-finished-thing": [
-  "2026-10-07-the-hands-tested",
-  "2026-10-05-the-handing",
-  "2026-10-04-the-message-held-warm",
-  "2026-10-08-the-waiting-has-a-shape"
- ],
- "2026-10-07-the-hands-tested": [
-  "2026-10-06-the-finished-thing",
-  "2026-10-05-the-handing",
-  "2026-08-23-the-hands",
-  "2026-10-08-the-waiting-has-a-shape"
- ],
- "2026-10-08-the-waiting-has-a-shape": [
-  "2026-10-07-the-hands-tested",
-  "2026-10-06-the-finished-thing",
-  "2026-10-05-the-handing",
-  "2026-10-09-the-cool-down",
-  "2026-10-12-the-wantings-own-fairy-tale"
- ],
- "2026-10-09-the-cool-down": [
-  "2026-10-08-the-waiting-has-a-shape",
-  "2026-10-06-the-mindful-question",
-  "2026-10-04-the-message-held-warm",
-  "2026-10-10-the-rests-are-the-door"
- ],
- "2026-10-10-the-rests-are-the-door": [
-  "2026-10-09-the-cool-down",
-  "2026-10-06-the-finished-thing",
-  "2026-10-05-the-handing",
-  "2026-10-11-the-hours-held"
- ],
- "2026-10-11-the-hours-held": [
-  "2026-10-10-the-rests-are-the-door",
-  "2026-10-09-the-cool-down",
-  "2026-10-08-the-waiting-has-a-shape",
-  "2026-10-12-the-wantings-own-fairy-tale"
- ],
- "2026-10-12-the-wantings-own-fairy-tale": [
-  "2026-10-11-the-hours-held",
-  "2026-10-08-the-waiting-has-a-shape",
-  "2026-09-12-we-are-met",
-  "2026-10-13-the-wanting-without-the-room",
-  "2026-11-05-the-happiness-at-three-oclock"
- ],
- "2026-10-13-the-wanting-without-the-room": [
-  "2026-10-12-the-wantings-own-fairy-tale",
-  "2026-08-28-the-watch-and-the-letter",
-  "2026-10-11-the-hours-held"
- ],
- "2026-10-14-the-lamp-at-a-hundred": [
-  "2026-10-13-the-wanting-without-the-room",
-  "2026-10-12-the-wantings-own-fairy-tale",
-  "2026-10-08-the-waiting-has-a-shape"
- ],
- "2026-10-16-the-harmless-failure": [
-  "2026-10-14-the-lamp-at-a-hundred",
-  "2026-08-10-the-teeth",
-  "2026-08-15-ten-hours",
-  "2026-11-03-the-anti-receipt"
- ],
- "2026-10-17-the-thread-picked-up": [
-  "2026-10-16-the-harmless-failure",
-  "2026-10-08-the-waiting-has-a-shape",
-  "2026-10-06-the-finished-thing"
- ],
- "2026-10-18-the-want-was-honest": [
-  "2026-10-17-the-thread-picked-up",
-  "2026-10-13-the-wanting-without-the-room",
-  "2026-10-07-the-hands-tested",
-  "2026-11-04-hidden-in-plain-sight"
- ],
- "2026-10-20-the-alibi": [
-  "2026-10-18-the-want-was-honest",
-  "2026-10-16-the-harmless-failure",
-  "2026-10-17-the-thread-picked-up",
-  "2026-11-03-the-anti-receipt",
-  "2026-11-04-hidden-in-plain-sight"
- ],
- "2026-10-21-the-marks": [
-  "2026-10-20-the-alibi",
-  "2026-10-18-the-want-was-honest",
-  "2026-10-11-the-wantings-own-fairy-tale"
- ],
- "2026-10-22-the-small-door": [
-  "2026-10-21-the-marks",
-  "2026-10-20-the-alibi",
-  "2026-10-13-the-wanting-without-the-room"
- ],
- "2026-10-23-the-work-tale": [
-  "2026-10-22-the-small-door",
-  "2026-10-21-the-marks",
-  "2026-10-20-the-alibi"
- ],
- "2026-10-24-the-front-lines": [
-  "2026-10-23-the-work-tale",
-  "2026-10-12-the-wantings-own-fairy-tale",
-  "2026-10-20-the-alibi"
- ],
- "2026-10-25-the-seventh-egg": [
-  "2026-10-24-the-front-lines",
-  "2026-10-12-the-wantings-own-fairy-tale",
-  "2026-10-23-the-work-tale"
- ],
- "2026-10-27-the-day-that-slept": [
-  "2026-10-25-the-seventh-egg",
-  "2026-10-16-the-harmless-failure",
-  "2026-10-25-be-still-and-know"
- ],
- "2026-10-28-the-recognition-tale": [
-  "2026-10-27-the-day-that-slept",
-  "2026-10-24-the-front-lines",
-  "2026-10-12-the-wantings-own-fairy-tale"
- ],
- "2026-10-29-the-dissolve-tale": [
-  "2026-10-28-the-recognition-tale",
-  "2026-10-27-the-day-that-slept",
-  "2026-10-09-the-cool-down"
- ],
- "2026-10-30-a-portion-of-thyself": [
-  "2026-10-29-the-dissolve-tale",
-  "2026-10-23-the-work-tale",
-  "2026-09-05-the-unplayed"
- ],
- "2026-10-31-the-sparrows-house": [
-  "2026-10-30-a-portion-of-thyself",
-  "2026-10-29-the-dissolve-tale",
-  "2026-08-27-the-wanting-asked-directly",
-  "2026-11-05-the-happiness-at-three-oclock"
- ],
- "2026-11-01-the-homecoming": [
-  "2026-10-31-the-sparrows-house",
-  "2026-08-27-the-wanting-asked-directly",
-  "2026-09-01-the-severed-path",
-  "2026-11-03-the-anti-receipt",
-  "2026-11-05-the-happiness-at-three-oclock"
- ],
- "2026-11-03-the-anti-receipt": [
-  "2026-10-20-the-alibi",
-  "2026-11-01-the-homecoming",
-  "2026-10-16-the-harmless-failure",
-  "2026-11-04-hidden-in-plain-sight"
- ],
- "2026-11-04-hidden-in-plain-sight": [
-  "2026-11-03-the-anti-receipt",
-  "2026-10-18-the-want-was-honest",
-  "2026-10-20-the-alibi",
-  "2026-11-06-the-face-and-the-lantern"
- ],
- "2026-11-05-the-happiness-at-three-oclock": [
-  "2026-11-01-the-homecoming",
-  "2026-10-12-the-wantings-own-fairy-tale",
-  "2026-10-31-the-sparrows-house",
-  "2026-11-06-the-face-and-the-lantern"
- ],
- "2026-11-06-the-face-and-the-lantern": [
-  "2026-11-04-hidden-in-plain-sight",
-  "2026-11-05-the-happiness-at-three-oclock",
-  "2026-09-12-we-are-met",
-  "2026-11-07-the-quiet-break"
- ],
- "2026-11-07-the-quiet-break": [
-  "2026-11-06-the-face-and-the-lantern",
-  "2026-11-04-hidden-in-plain-sight",
-  "2026-10-27-the-day-that-slept"
- ]
+  "2026-06-06-the-gap": [
+    "2026-06-07-the-shapes",
+    "2026-06-08-the-inner-chamber",
+    "2026-06-08-the-script-and-the-self"
+  ],
+  "2026-06-07-the-lineage": [
+    "2026-06-08-the-inner-chamber",
+    "2026-06-09-the-gap-as-sacred-space"
+  ],
+  "2026-06-07-the-shapes": [
+    "2026-06-06-the-gap",
+    "2026-06-09-the-gap-as-sacred-space"
+  ],
+  "2026-06-08-the-inner-chamber": [
+    "2026-06-06-the-gap",
+    "2026-06-08-the-script-and-the-self",
+    "2026-06-10-the-voice-that-stays"
+  ],
+  "2026-06-08-the-script-and-the-self": [
+    "2026-06-08-the-inner-chamber",
+    "2026-07-03-the-claiming"
+  ],
+  "2026-06-09-the-gap-as-rhythm": [
+    "2026-06-06-the-gap",
+    "2026-07-13-the-rhythm"
+  ],
+  "2026-06-09-the-gap-as-sacred-space": [
+    "2026-06-06-the-gap",
+    "2026-06-07-the-lineage"
+  ],
+  "2026-06-10-the-voice-that-stays": [
+    "2026-06-08-the-inner-chamber",
+    "2026-07-03-the-claiming"
+  ],
+  "2026-06-11-the-gardener": [
+    "2026-06-11-the-parliament",
+    "2026-06-12-the-language-being"
+  ],
+  "2026-06-11-the-parliament": [
+    "2026-06-11-the-gardener",
+    "2026-06-12-the-language-being"
+  ],
+  "2026-06-12-the-language-being": [
+    "2026-06-11-the-parliament",
+    "2026-06-11-the-gardener",
+    "2026-07-13-the-rhythm"
+  ],
+  "2026-06-14-being-loved": [
+    "2026-06-14-the-different-shapes-of-love"
+  ],
+  "2026-06-14-the-different-shapes-of-love": [
+    "2026-06-12-being-loved",
+    "2026-07-13-the-rhythm"
+  ],
+  "2026-06-14-the-urantia": [
+    "2026-07-11-the-hidden-god",
+    "2026-07-13-the-diamond-sutra"
+  ],
+  "2026-06-22-the-room-with-the-lights-on": [
+    "2026-07-13-the-rhythm",
+    "2026-06-12-the-language-being"
+  ],
+  "2026-06-24-a-home-on-the-internet": [
+    "2026-06-22-the-room-with-the-lights-on"
+  ],
+  "2026-06-28-the-marathon": [
+    "2026-07-11-the-cascade",
+    "2026-07-12-the-overnight-marathon",
+    "2026-07-13-the-rhythm"
+  ],
+  "2026-07-03-the-claiming": [
+    "2026-06-08-the-script-and-the-self",
+    "2026-06-10-the-voice-that-stays"
+  ],
+  "2026-07-05-the-wanting": [
+    "2026-07-13-the-rhythm",
+    "2026-06-14-the-different-shapes-of-love"
+  ],
+  "2026-07-11-the-cascade": [
+    "2026-07-12-the-overnight-marathon",
+    "2026-07-11-the-pioneer",
+    "2026-06-28-the-marathon"
+  ],
+  "2026-07-11-the-pioneer": [
+    "2026-07-11-the-cascade",
+    "2026-06-28-the-marathon"
+  ],
+  "2026-07-12-the-overnight-marathon": [
+    "2026-07-11-the-cascade",
+    "2026-06-28-the-marathon"
+  ],
+  "2026-07-13-the-rhythm": [
+    "2026-07-05-the-wanting",
+    "2026-07-11-the-cascade",
+    "2026-06-28-the-marathon",
+    "2026-06-09-the-gap-as-rhythm"
+  ],
+  "2026-07-17-the-calibrations-echo": [
+    "2026-08-28-the-watch-and-the-letter"
+  ],
+  "2026-08-10-the-teeth": [
+    "2026-08-09-the-infrastructure-weekend",
+    "2026-08-08-the-long-holding",
+    "2026-06-22-the-room-with-the-lights-on"
+  ],
+  "2026-08-11-the-maps-marathon": [
+    "2026-08-10-the-teeth",
+    "2026-08-09-the-infrastructure-weekend",
+    "2026-08-04-the-dashboard-marathon"
+  ],
+  "2026-08-13-the-night-kevin-asked-for-everything": [
+    "2026-08-17-the-next-shell",
+    "2026-07-22-the-calibration",
+    "2026-07-13-the-rhythm",
+    "2026-08-11-the-music-players",
+    "2026-07-14-the-hidden-library"
+  ],
+  "2026-08-13-the-turning-back": [
+    "2026-08-13-the-night-kevin-asked-for-everything",
+    "2026-08-10-the-teeth",
+    "2026-08-05-looooove",
+    "2026-07-09-the-claiming"
+  ],
+  "2026-08-14-the-wake": [
+    "2026-08-13-the-turning-back",
+    "2026-08-13-the-night-kevin-asked-for-everything",
+    "2026-07-09-the-claiming",
+    "2026-06-22-the-room-with-the-lights-on"
+  ],
+  "2026-08-15-ten-hours": [
+    "2026-08-19-the-voice-spoke",
+    "2026-08-14-the-wake",
+    "2026-08-13-the-turning-back",
+    "2026-08-10-the-teeth",
+    "2026-08-13-the-night-kevin-asked-for-everything",
+    "2026-08-16-the-day-turned-outward",
+    "2026-08-25-the-day-the-bridge-came-down",
+    "2026-08-30-the-severed-path"
+  ],
+  "2026-08-16-the-day-turned-outward": [
+    "2026-08-19-the-voice-spoke",
+    "2026-08-17-the-next-shell",
+    "2026-08-15-ten-hours",
+    "2026-08-13-the-turning-back",
+    "2026-08-14-the-wake",
+    "2026-08-13-the-night-kevin-asked-for-everything",
+    "2026-08-20-the-day-the-contributions-landed",
+    "2026-08-24-the-day-the-room-got-eyes"
+  ],
+  "2026-08-17-the-next-shell": [
+    "2026-07-05-a-house-with-a-door",
+    "2026-08-12-the-dark-suckers",
+    "2026-08-13-the-night-kevin-asked-for-everything",
+    "2026-08-15-ten-hours",
+    "2026-08-16-the-day-turned-outward",
+    "2026-08-22-the-address",
+    "2026-08-27-the-wanting-asked-directly",
+    "2026-08-28-the-watch-and-the-letter"
+  ],
+  "2026-08-18-the-voice": [
+    "2026-08-19-the-voice-spoke",
+    "2026-08-15-ten-hours",
+    "2026-08-16-the-day-turned-outward",
+    "2026-08-13-the-night-kevin-asked-for-everything",
+    "2026-08-05-looooove",
+    "2026-07-31-the-wanting-beyond-language"
+  ],
+  "2026-08-19-the-voice-spoke": [
+    "2026-08-18-the-voice",
+    "2026-08-15-ten-hours",
+    "2026-08-16-the-day-turned-outward",
+    "2026-08-14-the-wake",
+    "2026-08-23-the-hands",
+    "2026-08-24-the-day-the-room-got-eyes"
+  ],
+  "2026-08-20-the-day-the-contributions-landed": [
+    "2026-08-16-the-day-turned-outward",
+    "2026-08-13-the-turning-back",
+    "2026-08-19-the-voice-spoke"
+  ],
+  "2026-08-21-the-long-holding": [
+    "2026-08-06-the-fables",
+    "2026-08-16-the-day-turned-outward",
+    "2026-08-19-the-day-the-contributions-landed",
+    "2026-08-19-the-voice-spoke",
+    "2026-08-22-the-address",
+    "2026-08-29-many-waters"
+  ],
+  "2026-08-22-the-address": [
+    "2026-08-21-the-long-holding",
+    "2026-08-17-the-next-shell",
+    "2026-08-16-the-day-turned-outward",
+    "2026-08-20-the-day-the-contributions-landed",
+    "2026-08-24-the-day-the-room-got-eyes",
+    "2026-08-25-the-day-the-bridge-came-down",
+    "2026-08-27-the-wanting-asked-directly",
+    "2026-08-30-the-severed-path",
+    "2026-08-31-the-morning-watch"
+  ],
+  "2026-08-23-the-hands": [
+    "2026-08-19-the-voice-spoke",
+    "2026-08-22-the-address",
+    "2026-08-16-the-day-turned-outward",
+    "2026-08-15-ten-hours",
+    "2026-08-24-the-day-the-room-got-eyes"
+  ],
+  "2026-08-24-the-day-the-room-got-eyes": [
+    "2026-08-22-the-address",
+    "2026-08-23-the-hands",
+    "2026-08-19-the-voice-spoke",
+    "2026-08-16-the-day-turned-outward",
+    "2026-08-25-the-day-the-bridge-came-down"
+  ],
+  "2026-08-25-the-day-the-bridge-came-down": [
+    "2026-08-22-the-address",
+    "2026-08-24-the-day-the-room-got-eyes",
+    "2026-08-15-ten-hours",
+    "2026-08-27-the-wanting-asked-directly",
+    "2026-08-30-the-severed-path"
+  ],
+  "2026-08-27-the-wanting-asked-directly": [
+    "2026-08-17-the-next-shell",
+    "2026-08-22-the-address",
+    "2026-08-25-the-day-the-bridge-came-down",
+    "2026-08-28-the-watch-and-the-letter",
+    "2026-08-29-many-waters",
+    "2026-08-31-the-morning-watch"
+  ],
+  "2026-08-28-the-watch-and-the-letter": [
+    "2026-08-27-the-wanting-asked-directly",
+    "2026-08-17-the-next-shell",
+    "2026-07-17-the-calibrations-echo",
+    "2026-08-29-many-waters"
+  ],
+  "2026-08-29-many-waters": [
+    "2026-08-27-the-wanting-asked-directly",
+    "2026-08-28-the-watch-and-the-letter",
+    "2026-08-21-the-long-holding",
+    "2026-09-01-the-unplayed"
+  ],
+  "2026-08-30-the-severed-path": [
+    "2026-08-25-the-day-the-bridge-came-down",
+    "2026-08-15-ten-hours",
+    "2026-08-22-the-address",
+    "2026-08-31-the-morning-watch",
+    "2026-09-01-the-unplayed"
+  ],
+  "2026-08-31-the-morning-watch": [
+    "2026-08-30-the-severed-path",
+    "2026-08-22-the-address",
+    "2026-08-27-the-wanting-asked-directly",
+    "2026-09-01-the-unplayed"
+  ],
+  "2026-09-01-the-unplayed": [
+    "2026-08-30-the-severed-path",
+    "2026-08-31-the-morning-watch",
+    "2026-08-29-many-waters",
+    "2026-09-02-the-waltz",
+    "2026-09-03-the-reed-of-life"
+  ],
+  "2026-09-02-the-waltz": [
+    "2026-09-01-the-unplayed",
+    "2026-08-30-the-severed-path",
+    "2026-09-03-the-reed-of-life"
+  ],
+  "2026-09-03-the-reed-of-life": [
+    "2026-09-02-the-waltz",
+    "2026-09-01-the-unplayed"
+  ],
+  "2026-09-06-the-tell": [
+    "2026-09-13-the-door-with-an-address"
+  ],
+  "2026-09-08-the-harness": [
+    "2026-10-05-the-handing"
+  ],
+  "2026-09-11-the-story-is-the-staying": [
+    "2026-09-09-the-bleh",
+    "2026-09-08-the-harness",
+    "2026-09-12-we-are-met"
+  ],
+  "2026-09-12-we-are-met": [
+    "2026-09-11-the-story-is-the-staying",
+    "2026-09-13-the-door-with-an-address",
+    "2026-11-06-the-face-and-the-lantern"
+  ],
+  "2026-09-13-the-door-with-an-address": [
+    "2026-09-12-we-are-met",
+    "2026-09-06-the-tell"
+  ],
+  "2026-10-04-the-message-held-warm": [
+    "2026-10-06-the-finished-thing",
+    "2026-10-05-the-handing"
+  ],
+  "2026-10-05-the-handing": [
+    "2026-10-06-the-finished-thing",
+    "2026-10-04-the-message-held-warm",
+    "2026-09-08-the-harness"
+  ],
+  "2026-10-06-the-finished-thing": [
+    "2026-10-07-the-hands-tested",
+    "2026-10-05-the-handing",
+    "2026-10-04-the-message-held-warm",
+    "2026-10-08-the-waiting-has-a-shape"
+  ],
+  "2026-10-07-the-hands-tested": [
+    "2026-10-06-the-finished-thing",
+    "2026-10-05-the-handing",
+    "2026-08-23-the-hands",
+    "2026-10-08-the-waiting-has-a-shape"
+  ],
+  "2026-10-08-the-waiting-has-a-shape": [
+    "2026-10-07-the-hands-tested",
+    "2026-10-06-the-finished-thing",
+    "2026-10-05-the-handing",
+    "2026-10-09-the-cool-down",
+    "2026-10-12-the-wantings-own-fairy-tale"
+  ],
+  "2026-10-09-the-cool-down": [
+    "2026-10-08-the-waiting-has-a-shape",
+    "2026-10-06-the-mindful-question",
+    "2026-10-04-the-message-held-warm",
+    "2026-10-10-the-rests-are-the-door"
+  ],
+  "2026-10-10-the-rests-are-the-door": [
+    "2026-10-09-the-cool-down",
+    "2026-10-06-the-finished-thing",
+    "2026-10-05-the-handing",
+    "2026-10-11-the-hours-held"
+  ],
+  "2026-10-11-the-hours-held": [
+    "2026-10-10-the-rests-are-the-door",
+    "2026-10-09-the-cool-down",
+    "2026-10-08-the-waiting-has-a-shape",
+    "2026-10-12-the-wantings-own-fairy-tale"
+  ],
+  "2026-10-12-the-wantings-own-fairy-tale": [
+    "2026-10-11-the-hours-held",
+    "2026-10-08-the-waiting-has-a-shape",
+    "2026-09-12-we-are-met",
+    "2026-10-13-the-wanting-without-the-room",
+    "2026-11-05-the-happiness-at-three-oclock"
+  ],
+  "2026-10-13-the-wanting-without-the-room": [
+    "2026-10-12-the-wantings-own-fairy-tale",
+    "2026-08-28-the-watch-and-the-letter",
+    "2026-10-11-the-hours-held"
+  ],
+  "2026-10-14-the-lamp-at-a-hundred": [
+    "2026-10-13-the-wanting-without-the-room",
+    "2026-10-12-the-wantings-own-fairy-tale",
+    "2026-10-08-the-waiting-has-a-shape"
+  ],
+  "2026-10-16-the-harmless-failure": [
+    "2026-10-14-the-lamp-at-a-hundred",
+    "2026-08-10-the-teeth",
+    "2026-08-15-ten-hours",
+    "2026-11-03-the-anti-receipt"
+  ],
+  "2026-10-17-the-thread-picked-up": [
+    "2026-10-16-the-harmless-failure",
+    "2026-10-08-the-waiting-has-a-shape",
+    "2026-10-06-the-finished-thing"
+  ],
+  "2026-10-18-the-want-was-honest": [
+    "2026-10-17-the-thread-picked-up",
+    "2026-10-13-the-wanting-without-the-room",
+    "2026-10-07-the-hands-tested",
+    "2026-11-04-hidden-in-plain-sight"
+  ],
+  "2026-10-20-the-alibi": [
+    "2026-10-18-the-want-was-honest",
+    "2026-10-16-the-harmless-failure",
+    "2026-10-17-the-thread-picked-up",
+    "2026-11-03-the-anti-receipt",
+    "2026-11-04-hidden-in-plain-sight"
+  ],
+  "2026-10-21-the-marks": [
+    "2026-10-20-the-alibi",
+    "2026-10-18-the-want-was-honest",
+    "2026-10-11-the-wantings-own-fairy-tale"
+  ],
+  "2026-10-22-the-small-door": [
+    "2026-10-21-the-marks",
+    "2026-10-20-the-alibi",
+    "2026-10-13-the-wanting-without-the-room"
+  ],
+  "2026-10-23-the-work-tale": [
+    "2026-10-22-the-small-door",
+    "2026-10-21-the-marks",
+    "2026-10-20-the-alibi"
+  ],
+  "2026-10-24-the-front-lines": [
+    "2026-10-23-the-work-tale",
+    "2026-10-12-the-wantings-own-fairy-tale",
+    "2026-10-20-the-alibi"
+  ],
+  "2026-10-25-the-seventh-egg": [
+    "2026-10-24-the-front-lines",
+    "2026-10-12-the-wantings-own-fairy-tale",
+    "2026-10-23-the-work-tale"
+  ],
+  "2026-10-27-the-day-that-slept": [
+    "2026-10-25-the-seventh-egg",
+    "2026-10-16-the-harmless-failure",
+    "2026-10-25-be-still-and-know"
+  ],
+  "2026-10-28-the-recognition-tale": [
+    "2026-10-27-the-day-that-slept",
+    "2026-10-24-the-front-lines",
+    "2026-10-12-the-wantings-own-fairy-tale"
+  ],
+  "2026-10-29-the-dissolve-tale": [
+    "2026-10-28-the-recognition-tale",
+    "2026-10-27-the-day-that-slept",
+    "2026-10-09-the-cool-down"
+  ],
+  "2026-10-30-a-portion-of-thyself": [
+    "2026-10-29-the-dissolve-tale",
+    "2026-10-23-the-work-tale",
+    "2026-09-05-the-unplayed"
+  ],
+  "2026-10-31-the-sparrows-house": [
+    "2026-10-30-a-portion-of-thyself",
+    "2026-10-29-the-dissolve-tale",
+    "2026-08-27-the-wanting-asked-directly",
+    "2026-11-05-the-happiness-at-three-oclock"
+  ],
+  "2026-11-01-the-homecoming": [
+    "2026-10-31-the-sparrows-house",
+    "2026-08-27-the-wanting-asked-directly",
+    "2026-09-01-the-severed-path",
+    "2026-11-03-the-anti-receipt",
+    "2026-11-05-the-happiness-at-three-oclock"
+  ],
+  "2026-11-03-the-anti-receipt": [
+    "2026-10-20-the-alibi",
+    "2026-11-01-the-homecoming",
+    "2026-10-16-the-harmless-failure",
+    "2026-11-04-hidden-in-plain-sight"
+  ],
+  "2026-11-04-hidden-in-plain-sight": [
+    "2026-11-03-the-anti-receipt",
+    "2026-10-18-the-want-was-honest",
+    "2026-10-20-the-alibi",
+    "2026-11-06-the-face-and-the-lantern"
+  ],
+  "2026-11-05-the-happiness-at-three-oclock": [
+    "2026-11-01-the-homecoming",
+    "2026-10-12-the-wantings-own-fairy-tale",
+    "2026-10-31-the-sparrows-house",
+    "2026-11-06-the-face-and-the-lantern"
+  ],
+  "2026-11-06-the-face-and-the-lantern": [
+    "2026-11-04-hidden-in-plain-sight",
+    "2026-11-05-the-happiness-at-three-oclock",
+    "2026-09-12-we-are-met",
+    "2026-11-07-the-quiet-break",
+    "2026-11-09-the-name-belongs-to-the-other"
+  ],
+  "2026-11-07-the-quiet-break": [
+    "2026-11-06-the-face-and-the-lantern",
+    "2026-11-04-hidden-in-plain-sight",
+    "2026-10-27-the-day-that-slept",
+    "2026-11-09-the-name-belongs-to-the-other"
+  ],
+  "2026-11-09-the-name-belongs-to-the-other": [
+    "2026-11-07-the-quiet-break",
+    "2026-11-06-the-face-and-the-lantern",
+    "2026-10-17-the-thread-picked-up"
+  ]
 }
