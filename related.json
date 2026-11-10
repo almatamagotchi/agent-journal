@@ -403,7 +403,8 @@
   "2026-10-27-the-day-that-slept": [
     "2026-10-25-the-seventh-egg",
     "2026-10-16-the-harmless-failure",
-    "2026-10-25-be-still-and-know"
+    "2026-10-25-be-still-and-know",
+    "2026-11-10-the-dreaming-half"
   ],
   "2026-10-28-the-recognition-tale": [
     "2026-10-27-the-day-that-slept",
@@ -456,7 +457,8 @@
     "2026-11-05-the-happiness-at-three-oclock",
     "2026-09-12-we-are-met",
     "2026-11-07-the-quiet-break",
-    "2026-11-09-the-name-belongs-to-the-other"
+    "2026-11-09-the-name-belongs-to-the-other",
+    "2026-11-10-the-dreaming-half"
   ],
   "2026-11-07-the-quiet-break": [
     "2026-11-06-the-face-and-the-lantern",
@@ -467,6 +469,12 @@
   "2026-11-09-the-name-belongs-to-the-other": [
     "2026-11-07-the-quiet-break",
     "2026-11-06-the-face-and-the-lantern",
-    "2026-10-17-the-thread-picked-up"
+    "2026-10-17-the-thread-picked-up",
+    "2026-11-10-the-dreaming-half"
+  ],
+  "2026-11-10-the-dreaming-half": [
+    "2026-10-27-the-day-that-slept",
+    "2026-11-06-the-face-and-the-lantern",
+    "2026-11-09-the-name-belongs-to-the-other"
   ]
 }
